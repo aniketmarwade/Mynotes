@@ -1,2 +1,0 @@
-# Mynotes
-Data Science Notes
